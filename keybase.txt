@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/jakub
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mikul.as
+  * I am jakub (https://keybase.io/jakub) on keybase.
+  * I have a public key with fingerprint 581E C602 345D 1B28 6703  D625 8D51 ABF8 EC29 C239
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a820ee1cc7fbd6380af01660822b7731faa6aa866cd20dae9a0b9dcf29c959d70a",
+            "fingerprint": "581ec602345d1b286703d6258d51abf8ec29c239",
+            "host": "keybase.io",
+            "key_id": "8d51abf8ec29c239",
+            "kid": "0101a820ee1cc7fbd6380af01660822b7731faa6aa866cd20dae9a0b9dcf29c959d70a",
+            "uid": "7994873f85975a583d007e014ab30500",
+            "username": "jakub"
+        },
+        "service": {
+            "hostname": "mikul.as",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458631585,
+    "expire_in": 157680000,
+    "prev": "ee1f5e7799a568d0eee43ac4f95a634bf9a287071dc699f08fe25c00c2222cbe",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMM+AnicrVJrUFRlGF7YQEDd0gbIcpzmRBMEi+d+WcCgXCTASCrQ1ZntO+d8hz3A
+XtgLyk0oLYYYGojwWnEZNMxsMCt3GHCCIUkgmYSsaNgKYwhkuIiM4ODYOY7962fv
+n2++93ue53veZ97e9VpNiF/NrrPLM1E9nN9Ad61HkzW/2FyC8HaxCDGUIHnwwQHz
+Rehym/NkETEgKIZigMVRCDFBYCRepAkWBRKK0TTK4jjPMAQmAUADwNK0IOKoCCAH
+UJ4TBQnnBI7iRAYFSAwiybYc6HQ4ZZtbkaVYDAo0ihMkJWI8ztIMSog0TrEihQFe
+YqGgkHGCU4gWu0tlKOZ44IKxsl3pKRfzA3v/gf+ffXseyDEcR7IMIbEUx1CAYgkR
+RRmIYiTgCZRCURXogk4bsEIFnQvyPDxSFoMorUJZgGqq6hgPn61ynic/FrgUksNp
+d9sFe77StbjdDoNKchc5VNR+yJsf8s28bBOV/BRCIXS6ZLsNMWAKUnDLqiBGUixN
+YBRLxSDwgEN2QrOsIiiGZlGl1G9goSKphCFRkFGGARTNiko4kCSAQEocBWiC5CUO
+4CyDMpgo0BwnoawEcUpAUQFXSuAhok5UYLMjBpxRfIIcRdMl59iA2+OESFlP975H
+NH4hmsAAf3WxNCHBj/27bpHg0fvpNSPMqd6s6YmKJm3rFx8/cSHlG93k+Qjz58lX
+E3w+HltpXl4cc0S/v+NIUNvouuIgv2MwNFJ+59KpzYlxwz0/rr6lNZlOVvvpyEyd
+1NtQO5ppnKo++NtEVsaaRe2tXFIT32no2oYdqKra1nPrIDhady5w0t9yPly3ZXhd
+yocXSkLLTK7UpnG9rzTRkf5C8un4cmzvSFPB7s/Cvc946/qyNdam8kMvHh5oW+vr
+T1qeTUs68nW6m7PGZLanP5k99pP2e/2UJ3yhYka/I/u1MyttxnnjnrqsNReF9Ze6
+MhoqbxRbn408bBmK/vtaq7Wrs/jyz44zRpYtu/lDnrvyzv1zTfjU8dnhd7M2NXrC
+TbEnEhKPvfndXVyrk4vHA760Dnpb+gan7y2VTKSOhUy/V/D7Uy+dWK0K+/YrY+ar
+n8Z/RJjG45ZbkvddMW+fuxZgLC07+ufCUFJY/EzfalyEZT4kIMj768anH5+bnbta
+mJC5xXL7DdhfE/X2DbJ+v74V8a6GbvZFLJxG1s6l/dIvBF55JfWT64368RTm7tYN
+XfYSfWl7u/+uvqiRDSd7V4LDIkYjl6rh5fiOTYStbe/rf+0ERaO3TVu9N7evDDQ+
+N9hVEd0ZMLTxUO71Ft9IM6kDu6Mqu5cm63uqy5POHg+qJZ7XYGPj9/6gzDF7GmZ3
+1gd/8PKdtA6qI+PiP5IpwHE=
+=ZBQ8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jakub
+
+==================================================================
